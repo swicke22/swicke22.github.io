@@ -2,4 +2,4 @@
 
 - Name: Erica
 - Role: DEXA Technician and Aspiring Software Developer
-- Hobbies: Birdwatching, SUP boarding, yog
+- Hobbies: Birdwatching, SUP boarding, yoga
